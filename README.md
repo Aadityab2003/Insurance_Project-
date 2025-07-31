@@ -2,7 +2,7 @@
 
 An interactive **Power BI report** created for **Fictional Insurance Pvt. Ltd**, designed to visualize insurance claim data, customer demographics, policy activity, and key business metrics.
 
-![Dashboard Screenshot](images/DashBoard.png)
+![Dashboard Screenshot](DashBoard.png)
 
 ---
 
