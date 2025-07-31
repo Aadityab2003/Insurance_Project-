@@ -2,7 +2,7 @@
 
 An interactive **Power BI report** created for **Fictional Insurance Pvt. Ltd**, designed to visualize insurance claim data, customer demographics, policy activity, and key business metrics.
 
-![Dashboard Screenshot](images/insurance_dashboard.png)
+![Dashboard Screenshot](images/DashBoard.png)
 
 ---
 
@@ -30,7 +30,7 @@ An interactive **Power BI report** created for **Fictional Insurance Pvt. Ltd**,
 - **Slicers**
   - Filter the data by `PolicyNumber`, `ClaimNumber`, and `CustomerID`
 
-- **KPIs**
+- **Card's**
   - **Premium Amount**: 5.98M  
   - **Coverage Amount**: 600.55M  
   - **Claim Amount**: 16.91M
@@ -57,5 +57,4 @@ An interactive **Power BI report** created for **Fictional Insurance Pvt. Ltd**,
 
 ---
 
-## 📁 Folder Structure
 
