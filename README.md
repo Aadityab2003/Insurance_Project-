@@ -1,6 +1,6 @@
 # 📊 Insurance Dashboard - Power BI
 
-An interactive **Power BI report** created for **Fictional Insurance Pvt. Ltd**, designed to visualize insurance claim data, customer demographics, policy activity, and key business metrics.
+An interactive **Power BI report** created for **Insurance analysis  Dashboard**, designed to visualize insurance claim data, customer demographics, policy activity, and key business metrics.
 
 ![Dashboard Screenshot](DashBoard_2.png)
 
